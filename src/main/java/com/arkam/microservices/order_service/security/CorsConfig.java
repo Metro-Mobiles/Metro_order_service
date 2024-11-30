@@ -1,4 +1,4 @@
-package com.arkam.microservices.product_service.security;
+package com.arkam.microservices.order_service.security;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
